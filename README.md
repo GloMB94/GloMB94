@@ -5,10 +5,10 @@ I have a huge interest in Data Storytelling and Artifitial Intelligence to provi
 Currently learning git, SQL, Python and statistics.
  
 
-###Skills:
+### Skills:
 Marine Ecology | Fisheries | R | LaTex
 
-###Tools:
+### Tools:
 R, Python
 
 
@@ -16,7 +16,7 @@ R, Python
 - 🌱 I’m currently learning Python, SQL and Git
 - 💞️ I’m looking to collaborate on projects with ecological and social impact
 - 👀 I’m interested in creating a community where I can learn and share same interests (environment, technology, society)
-- 📫 How to reach me: Gloria Mariño Briceño ([LinkedIn](https://www.linkedin.com/in/gloria-marino-briceno/), [ResearchGate](https://www.researchgate.net/profile/Gloria-Marino-Briceno)
+- 📫 How to reach me: Gloria Mariño Briceño [LinkedIn](https://www.linkedin.com/in/gloria-marino-briceno/), [ResearchGate](https://www.researchgate.net/profile/Gloria-Marino-Briceno)
 - 👽Fun fact: I have lived in 5 countries in the last 4 years, and moving to the sixth one very soon.
 
 
